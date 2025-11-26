@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/FECAP-008000?style=for-the-badge&logo=google-scholar&logoColor=fff"/>
   </a>
 
-  <a href="https://www.sesi.org.br" target="_blank">
+  <a href="https://www.sesisp.org.br/" target="_blank">
     <img src="https://img.shields.io/badge/SESI-CC0000?style=for-the-badge&logo=google-scholar&logoColor=fff"/>
   </a>
 
