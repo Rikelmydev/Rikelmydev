@@ -18,7 +18,7 @@
 
   <br><br>
 
-  <!-- Letreiro em inglês -->
+  <!-- Letreiro -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=C79BFF&center=true&vCenter=true&width=600&lines=My+name+is+Rikelmy+—+welcome+to+my+profile!"/>
 
   <br>
@@ -61,34 +61,18 @@
 
 ---
 
-# 📂 **Projetos**
+# 📂 **Projetos & Portfolio**
 
 <div align="center">
 
-  <a href="https://github.com/RikelmyDev?tab=repositories" target="_blank"
-     style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Meus%20Projetos-7A42FF?style=for-the-badge&logo=github&logoColor=fff" />
+  <a href="https://github.com/RikelmyDev?tab=repositories" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Projetos-8A2BE2?style=for-the-badge&logo=github&logoColor=fff" />
   </a>
 
-  <br><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://github.com/RikelmyDev" target="_blank"
-     style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Dashboard%20Casa%20Inteligente-8A2BE2?style=for-the-badge&logo=react&logoColor=fff" />
-  </a>
-
-</div>
-
-<br><br>
-
----
-
-# 🌐 **Portfolio**
-
-<div align="center">
-
-  <a href="#" style="text-decoration:none; cursor:not-allowed;">
-    <img src="https://img.shields.io/badge/Portfolio%20(Em%20Breve)-6B3EFF?style=for-the-badge&logo=dev.to&logoColor=fff" />
+  <a href="#" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Portfolio%20(Em%20Breve)-6E30F5?style=for-the-badge&logo=dev.to&logoColor=fff" />
   </a>
 
 </div>
@@ -118,4 +102,5 @@
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer"/>
+
 
