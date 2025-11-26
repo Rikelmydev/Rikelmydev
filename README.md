@@ -163,11 +163,11 @@
     <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=A97BFF"/>
   </a>
 
-  <a href="https://www.instagram.com/">
+  <a href="https://www.instagram.com/ricks.zx">
     <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=A97BFF"/>
   </a>
 
-  <a href="https://www.linkedin.com/">
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/rikelmy-anacleto-07102006d18/)">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=A97BFF"/>
   </a>
 
