@@ -1,5 +1,4 @@
 <div align="center">
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="100" style="filter: drop-shadow(0 0 10px #61dafb);"/>
 
   <br/>
@@ -14,14 +13,13 @@
     <a href="mailto:rikelmyanacleto43@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-    <a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI">
+    <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://instagram.com/SEU-USUARIO-AQUI">
+    <a href="https://instagram.com/SEU-INSTAGRAM-AQUI">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
   </div>
-
 </div>
 
 <br/>
@@ -95,19 +93,19 @@
 <h2 align="center">📊 Minhas Estatísticas</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RikelmyDev&show_icons=true&theme=transparent&hide_border=false&title_color=5cc0ff&text_color=9fcfff&icon_color=5cc0ff&bg_color=0d1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RikelmyDev&layout=compact&theme=transparent&hide_border=false&title_color=5cc0ff&text_color=9fcfff&icon_color=5cc0ff&bg_color=0d1117" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rikelmydev&show_icons=true&theme=dark&hide_border=true&title_color=5cc0ff&text_color=bfbfbf&icon_color=5cc0ff&bg_color=0d1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rikelmydev&layout=compact&theme=dark&hide_border=true&title_color=5cc0ff&text_color=bfbfbf&icon_color=5cc0ff&bg_color=0d1117" height="150" alt="languages graph" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RikelmyDev&theme=dark&background=0d1117&ring=5cc0ff&fire=5cc0ff&currStreakLabel=5cc0ff" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rikelmydev&theme=dark&hide_border=true&background=0d1117&ring=5cc0ff&fire=5cc0ff&currStreakLabel=5cc0ff" alt="streak stats"/>
 </div>
 
 ---
 
 <div align="center">
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=RikelmyDev&color=5cc0ff&style=flat-square&label=Profile+Views" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=Rikelmydev&color=5cc0ff&style=flat-square&label=Profile+Views" alt="views"/>
   <br/>
   <br/>
   <p style="color: #5cc0ff; font-size: 12px; font-style: italic;">
