@@ -29,7 +29,7 @@
 
 ---
 
-# 📊 **Análises do GitHub**
+
 
 <div align="center">
 
@@ -49,7 +49,7 @@
 
 ---
 
-# 🚀 **Linguagens**
+**Linguagens**
 
 <div align="center">
   <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
@@ -62,7 +62,7 @@
 
 <br>
 
-# 🧰 **Ferramentas & Plataformas**
+**Ferramentas & Plataformas**
 
 <div align="center">
   <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
@@ -77,7 +77,7 @@
 
 ---
 
-# 📁 **Projetos & Portfolio**
+**Projetos & Portfolio**
 
 <div align="center">
 
@@ -97,7 +97,7 @@
 
 ---
 
-# 📫 **Contato**
+**Contato**
 
 <div align="center">
 
