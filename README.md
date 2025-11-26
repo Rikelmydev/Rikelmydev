@@ -93,6 +93,8 @@
 <h2 align="center">📊 Minhas Estatísticas</h2>
 
 <div align="center">
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
   <img src="https://github-readme-stats.vercel.app/api?username=Rikelmydev&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;title_color=5cc0ff&amp;text_color=bfbfbf&amp;icon_color=5cc0ff&amp;bg_color=0d1117" height="150" alt="stats graph" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rikelmydev&amp;layout=compact&amp;theme=dark&amp;hide_border=true&amp;title_color=5cc0ff&amp;text_color=bfbfbf&amp;icon_color=5cc0ff&amp;bg_color=0d1117" height="150" alt="languages graph" />
