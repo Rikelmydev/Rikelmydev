@@ -1,54 +1,102 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<!-- ============================
+     README: Rikelmy Anacleto Lemos
+     - Tema: Azul / Dark
+     - Sem imagens quebradas
+     - Animação de digitação no título
+     - Borda estilizada no nome
+     ============================ -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Rikelmy+Anacleto+Lemos+👋;Full-Stack+Developer+in+progress;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+<div align="center">
 
-<div align="center">  
-  <img width="49%" height="195px" 
-       src="https://github-readme-stats.vercel.app/api?username=RikelmyLemos&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
+<!-- TOP ICON -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="120" style="filter: drop-shadow(0 6px 12px rgba(0,0,0,0.6));"/>
 
-  <img width="41%" height="195px"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RikelmyLemos&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
+<br/>
+
+<!-- TYPING TITLE (azul) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=5cc0ff&width=760&lines=Hi+there!+I'm+Rikelmy+Anacleto+Lemos+%F0%9F%91%8B" alt="typing"/>
+
+<br/>
+
+<samp style="color:#b9c6d6">
+Desenvolvedor em evolução • Estudante de ADS • Automação, IoT e interfaces modernas
+</samp>
+
+<br/>
+
+<!-- NAME BOX com borda gradiente em azul -->
+<div style="margin-top:18px; display:inline-block; padding:10px 22px; border-radius:12px;
+            background:linear-gradient(180deg, rgba(9,18,28,0.55), rgba(9,18,28,0.35));
+            border: 2px solid; border-image: linear-gradient(90deg,#59b7ff,#2b9cff,#5bd0ff) 1;">
+  <strong style="letter-spacing:4px; color:#dbefff">RIKELMY</strong>
 </div>
 
-[![Rikelmy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RikelmyLemos&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RikelmyLemos&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
-</p>
-
-<div align="center">  
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
 </div>
 
 ---
 
-### 🚀 Main Skills
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
-![C#](https://img.shields.io/badge/-CSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple)&nbsp;
+<!-- STATS (cards confiáveis) -->
+<div align="center" style="margin-top:18px">
+  <img src="https://github-readme-stats.vercel.app/api?username=RikelmyDev&show_icons=true&theme=dark&hide_border=true&icon_color=5cc0ff&text_color=9fcfff" alt="github stats" width="720"/>
+</div>
 
-### 🛠 Tools
-![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql)&nbsp;
-![Workbench](https://img.shields.io/badge/-MySQL%20Workbench-0D1117?style=for-the-badge&logo=mysql)&nbsp;
+---
 
-### 📘 Other Knowledge
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma)&nbsp;
+## ✨ Destaques
+- Criando um **dashboard para casa inteligente** (IoT + sustentabilidade).  
+- Jovem aprendiz na **Hyundai**.  
+- Buscando estágio em grandes empresas e crescimento em backend/frontend.
 
-### 📚 Studying Now
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
+---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+## 🚀 Tech Stack principal
+
+<div align="center" style="display:flex; gap:18px; justify-content:center; align-items:center; flex-wrap:wrap; margin:18px 0;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="56" alt="JS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="56" alt="Node"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="56" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="56" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="56" alt="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="56" alt="Workbench"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="56" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="56" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="56" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="56" alt="Arduino"/>
+</div>
+
+> Observação: usei ícones confiáveis do CDN `jsdelivr` (devicon) para evitar imagens quebradas.
+
+---
+
+## 📂 Projetos
+- [Dashboard Casa Inteligente](https://github.com/RikelmyDev) — Projeto em desenvolvimento (IoT, MQTT, Dashboard em React).  
+- **Meus Repositórios:** acesse `https://github.com/RikelmyDev?tab=repositories` para ver tudo publicado.
+
+---
+
+## 🧾 Portfolio & Links
+- **Portfolio:** (em breve)  
+- **Meus Projetos:** https://github.com/RikelmyDev?tab=repositories
+
+---
+
+## 📫 Contato
+<div align="center" style="margin-top:10px">
+  <a href="mailto:rikelmyanacleto43@gmail.com"><img src="https://img.shields.io/badge/Gmail-5cc0ff?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
+  <a href="https://www.instagram.com"><img src="https://img.shields.io/badge/Instagram-5cc0ff?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
+  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-5cc0ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+</div>
+
+---
+
+<div align="center" style="margin-top:20px; color:#7fbfff; font-size:13px">
+  Profile views: <img src="https://komarev.com/ghpvc/?username=RikelmyDev&color=5cc0ff" alt="views"/>
+</div>
+
+<br/>
+
+<!-- FOOTER subtle blue line -->
+<hr style="border:none; height:1px; background:linear-gradient(90deg, rgba(92,192,255,0.0), rgba(92,192,255,0.9), rgba(92,192,255,0.0));"/>
+
+<p align="center" style="color:#9bbfe6; font-size:12px">Feito por Rikelmy — perfil atualizado com tema azul e sem imagens quebradas.</p>
 
