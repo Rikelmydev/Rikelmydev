@@ -1,102 +1,119 @@
-<!-- ============================
-     README: Rikelmy Anacleto Lemos
-     - Tema: Azul / Dark
-     - Sem imagens quebradas
-     - Animação de digitação no título
-     - Borda estilizada no nome
-     ============================ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=90D5FF"/>
+
+<br>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=800&color=5CC0FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Rikelmy+Anacleto+Lemos+👋">
+</h1>
 
 <div align="center">
 
-<!-- TOP ICON -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="120" style="filter: drop-shadow(0 6px 12px rgba(0,0,0,0.6));"/>
+  <!-- Nome com borda -->
+  <div style="margin-top:10px; display:inline-block; padding:10px 22px; border-radius:14px;
+              background:rgba(9,18,28,0.45); border:2px solid #5CC0FF;">
+    <strong style="letter-spacing:5px; color:#D9EEFF; font-size:22px;">RIKELMY</strong>
+  </div>
 
-<br/>
+  <br><br>
 
-<!-- TYPING TITLE (azul) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=5cc0ff&width=760&lines=Hi+there!+I'm+Rikelmy+Anacleto+Lemos+%F0%9F%91%8B" alt="typing"/>
-
-<br/>
-
-<samp style="color:#b9c6d6">
-Desenvolvedor em evolução • Estudante de ADS • Automação, IoT e interfaces modernas
-</samp>
-
-<br/>
-
-<!-- NAME BOX com borda gradiente em azul -->
-<div style="margin-top:18px; display:inline-block; padding:10px 22px; border-radius:12px;
-            background:linear-gradient(180deg, rgba(9,18,28,0.55), rgba(9,18,28,0.35));
-            border: 2px solid; border-image: linear-gradient(90deg,#59b7ff,#2b9cff,#5bd0ff) 1;">
-  <strong style="letter-spacing:4px; color:#dbefff">RIKELMY</strong>
-</div>
+  <samp style="color:#b9c6d6">
+    Desenvolvedor • ADS • Automação, IoT e Interfaces Modernas
+  </samp>
 
 </div>
 
----
+<br><br>
 
-<!-- STATS (cards confiáveis) -->
 <div align="center">
 
-<!-- GitHub Stats Estável -->
-<div align="center">
-  <img 
-       src="https://github-readme-stats-one-bice.vercel.app/api?username=RikelmyDev&theme=dark&show_icons=true&hide_border=true&icon_color=5cc0ff&text_color=9fcfff"
-       width="720"
+  <!-- GitHub Stats -->
+  <img
+    height=165
+    align="center"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api/?username=RikelmyDev&show_icons=true&count_private=true&rank_icon=github&theme=dark&font=Iosevka"
   />
+
+  <img
+    height=165
+    align="center"
+    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RikelmyDev&layout=compact&langs_count=16&theme=dark&font=Iosevka"
+  />
+
+  <br><br>
+
+  <img
+    align="center"
+    alt="Resumo do perfil"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RikelmyDev&theme=dark"
+  />
+
+  <br><br>
+
+  <img
+    height=154
+    align="center"
+    alt="Streak"
+    src="https://github-readme-streak-stats.herokuapp.com?user=RikelmyDev&theme=dark&card_width=885"
+  />
+
 </div>
 
+<br><br>
 
+<!-- Skills -->
+<h2 align="center">🚀 Tech Stack</h2>
 
-
-
-## 🚀 Tech Stack principal
-
-<div align="center" style="display:flex; gap:18px; justify-content:center; align-items:center; flex-wrap:wrap; margin:18px 0;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="56" alt="JS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="56" alt="Node"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="56" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="56" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="56" alt="SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="56" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="56" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="56" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="56" alt="Arduino"/>
+<div align="center">
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
+  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg"/>
+  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg"/>
 </div>
 
-> Observação: usei ícones confiáveis do CDN `jsdelivr` (devicon) para evitar imagens quebradas.
+<br><br>
 
 ---
 
 ## 📂 Projetos
-- [Dashboard Casa Inteligente](https://github.com/RikelmyDev) — Projeto em desenvolvimento (IoT, MQTT, Dashboard em React).  
-- **Meus Repositórios:** acesse `https://github.com/RikelmyDev?tab=repositories` para ver tudo publicado.
+
+- **Dashboard Casa Inteligente** — (IoT, MQTT, React, Sensores e Automação)  
+  🔗 https://github.com/RikelmyDev
+
+- **Meus Repositórios:**  
+  https://github.com/RikelmyDev?tab=repositories
 
 ---
 
-## 🧾 Portfolio & Links
+## 🌐 Portfolio & Links
+
 - **Portfolio:** (em breve)  
-- **Meus Projetos:** https://github.com/RikelmyDev?tab=repositories
+- **Projetos:** https://github.com/RikelmyDev?tab=repositories  
 
 ---
 
 ## 📫 Contato
+
 <div align="center" style="margin-top:10px">
-  <a href="mailto:rikelmyanacleto43@gmail.com"><img src="https://img.shields.io/badge/Gmail-5cc0ff?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
-  <a href="https://www.instagram.com"><img src="https://img.shields.io/badge/Instagram-5cc0ff?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
-  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-5cc0ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="mailto:rikelmyanacleto43@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=90D5FF"/>
+  </a>
+  <a href="https://www.instagram.com/">
+    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=90D5FF"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=90D5FF"/>
+  </a>
 </div>
 
----
+<br>
 
-<div align="center" style="margin-top:20px; color:#7fbfff; font-size:13px">
-  Profile views: <img src="https://komarev.com/ghpvc/?username=RikelmyDev&color=5cc0ff" alt="views"/>
-</div>
-
-<br/>
-
-<!-- FOOTER subtle blue line -->
-<hr style="border:none; height:1px; background:linear-gradient(90deg, rgba(92,192,255,0.0), rgba(92,192,255,0.9), rgba(92,192,255,0.0));"/>
-
-<p align="center" style="color:#9bbfe6; font-size:12px">Feito por Rikelmy — perfil atualizado com tema azul e sem imagens quebradas.</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=90D5FF&height=100&section=footer"/>
 
