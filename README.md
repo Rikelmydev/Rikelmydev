@@ -22,13 +22,21 @@
   </div>
 
 <div align="center">
-<!-- Badges linking to institutions (works reliably) -->
-[![FECAP](https://img.shields.io/badge/FECAP-6E30F5?style=for-the-badge&logo=data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24'></svg>)](https://www.fecap.br)
-[![SESI](https://img.shields.io/badge/SESI-6E30F5?style=for-the-badge)](https://www.sesi.org.br)
-[![SENAI](https://img.shields.io/badge/SENAI-6E30F5?style=for-the-badge)](https://www.senai.br)
+
+  <a href="mailto:rikelmyanacleto43@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=A97BFF"/>
+  </a>
+
+  <a href="https://www.instagram.com/">
+    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=A97BFF"/>
+  </a>
+
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=A97BFF"/>
+  </a>
+
 </div>
 
-<br>
 
   <br><br>
 
