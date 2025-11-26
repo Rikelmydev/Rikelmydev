@@ -13,7 +13,7 @@
   <div style="margin-top:10px; display:inline-block; padding:12px 24px; border-radius:14px;
               background:rgba(20,0,40,0.55); border:2px solid #A97BFF;">
     <strong style="letter-spacing:5px; color:#E6D7FF; font-size:22px;">
-      RIKELMY
+      RIKELMY 🇧🇷
     </strong>
   </div>
 
@@ -47,80 +47,77 @@
 
 ---
 
-## Linguagens
+# **Linguagens**
 
-<div align="center" style="display:flex; gap:14px; justify-content:center; flex-wrap:wrap;">
-  <div style="display:inline-block; padding:10px; border-radius:10px; border:2px solid #9D4EDD; background:rgba(145,75,255,0.04);">
-    <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML"/>
-  </div>
+<div align="center">
 
-  <div style="display:inline-block; padding:10px; border-radius:10px; border:2px solid #9D4EDD; background:rgba(145,75,255,0.04);">
-    <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS"/>
-  </div>
+  <img width="70" style="transform: rotate(-8deg); border: 2px solid #8A2BE2; border-radius: 12px; padding: 8px; margin: 10px;"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 
-  <div style="display:inline-block; padding:10px; border-radius:10px; border:2px solid #9D4EDD; background:rgba(145,75,255,0.04);">
-    <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript"/>
-  </div>
+  <img width="70" style="transform: rotate(6deg); border: 2px solid #8A2BE2; border-radius: 12px; padding: 8px; margin: 10px;"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 
-  <div style="display:inline-block; padding:10px; border-radius:10px; border:2px solid #9D4EDD; background:rgba(145,75,255,0.04);">
-    <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#"/>
-  </div>
+  <img width="70" style="transform: rotate(-5deg); border: 2px solid #8A2BE2; border-radius: 12px; padding: 8px; margin: 10px;"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 
-  <div style="display:inline-block; padding:10px; border-radius:10px; border:2px solid #9D4EDD; background:rgba(145,75,255,0.04);">
-    <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="MySQL"/>
-  </div>
+  <img width="70" style="transform: rotate(7deg); border: 2px solid #8A2BE2; border-radius: 12px; padding: 8px; margin: 10px;"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 
-  <div style="display:inline-block; padding:10px; border-radius:10px; border:2px solid #9D4EDD; background:rgba(145,75,255,0.04);">
-    <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite"/>
-  </div>
-</div>
+  <img width="70" style="transform: rotate(-7deg); border: 2px solid #8A2BE2; border-radius: 12px; padding: 8px; margin: 10px;"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 
-<br>
+  <img width="70" style="transform: rotate(5deg); border: 2px solid #8A2BE2; border-radius: 12px; padding: 8px; margin: 10px;"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 
-## Ferramentas & Plataformas
+  <img width="70" style="transform: rotate(-6deg); border: 2px solid #8A2BE2; border-radius: 12px; padding: 8px; margin: 10px;"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 
-<div align="center" style="display:flex; gap:14px; justify-content:center; flex-wrap:wrap;">
-  <div style="display:inline-block; padding:10px; border-radius:10px; border:2px solid #7B2CBF; background:rgba(123,44,191,0.04);">
-    <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
-  </div>
-
-  <div style="display:inline-block; padding:10px; border-radius:10px; border:2px solid #7B2CBF; background:rgba(123,44,191,0.04);">
-    <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
-  </div>
-
-  <div style="display:inline-block; padding:10px; border-radius:10px; border:2px solid #7B2CBF; background:rgba(123,44,191,0.04);">
-    <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma"/>
-  </div>
-
-  <div style="display:inline-block; padding:10px; border-radius:10px; border:2px solid #7B2CBF; background:rgba(123,44,191,0.04);">
-    <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino"/>
-  </div>
-
-  <div style="display:inline-block; padding:10px; border-radius:10px; border:2px solid #7B2CBF; background:rgba(123,44,191,0.04);">
-    <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode"/>
-  </div>
-
-  <div style="display:inline-block; padding:10px; border-radius:10px; border:2px solid #7B2CBF; background:rgba(123,44,191,0.04);">
-    <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio"/>
-  </div>
 </div>
 
 <br><br>
 
 ---
 
-## Projetos & Portfolio
+# **Ferramentas & Plataformas**
 
 <div align="center">
 
-  <a href="https://github.com/RikelmyDev?tab=repositories" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Projetos-8A2BE2?style=for-the-badge&logo=github&logoColor=fff" />
+  <img width="70" style="transform: rotate(6deg); border: 2px solid #A97BFF; border-radius: 12px; padding: 8px; margin: 10px;"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+
+  <img width="70" style="transform: rotate(-8deg); border: 2px solid #A97BFF; border-radius: 12px; padding: 8px; margin: 10px;"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+
+  <img width="70" style="transform: rotate(7deg); border: 2px solid #A97BFF; border-radius: 12px; padding: 8px; margin: 10px;"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+
+  <img width="70" style="transform: rotate(-5deg); border: 2px solid #A97BFF; border-radius: 12px; padding: 8px; margin: 10px;"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
+
+  <img width="70" style="transform: rotate(5deg); border: 2px solid #A97BFF; border-radius: 12px; padding: 8px; margin: 10px;"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+
+  <img width="70" style="transform: rotate(-6deg); border: 2px solid #A97BFF; border-radius: 12px; padding: 8px; margin: 10px;"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
+
+</div>
+
+<br><br>
+
+---
+
+# **Projetos & Portfolio**
+
+<div align="center">
+
+  <a href="https://github.com/RikelmyDev?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Projetos-8A2BE2?style=for-the-badge&logo=github&logoColor=fff"/>
   </a>
 
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="#" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Portfolio%20(Em%20Breve)-6E30F5?style=for-the-badge&logo=dev.to&logoColor=fff" />
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio%20(Em%20Breve)-6E30F5?style=for-the-badge&logo=dev.to&logoColor=fff"/>
   </a>
 
 </div>
@@ -129,7 +126,7 @@
 
 ---
 
-## Contato
+# **Contato**
 
 <div align="center">
 
