@@ -22,8 +22,6 @@
 
   <br><br>
 
-  <!-- Letreiro -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=C79BFF&center=true&vCenter=true&width=600&lines=My+name+is+Rikelmy+—+welcome+to+my+profile!"/>
 
   <br>
 
