@@ -1,112 +1,103 @@
-<br><br>
+<!-- ============================
+     README: Rikelmy Anacleto Lemos
+     - Tema: Azul / Dark
+     - Sem imagens quebradas
+     - Animação de digitação no título
+     - Borda estilizada no nome
+     ============================ -->
 
 <div align="center">
 
-  <!-- Ícone/Avatar Temático -->
-  <img height="150" style="border-radius: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<!-- TOP ICON -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="120" style="filter: drop-shadow(0 6px 12px rgba(0,0,0,0.6));"/>
 
-  <br><br>
+<br/>
 
-  <!-- Título Animado -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Rikelmy+Anacleto+Lemos+👋" />
+<!-- TYPING TITLE (azul) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=5cc0ff&width=760&lines=Hi+there!+I'm+Rikelmy+Anacleto+Lemos+%F0%9F%91%8B" alt="typing"/>
 
-  <br>
+<br/>
 
-  <samp>
-    Desenvolvedor em evolução • Estudante de ADS • Apaixonado por tecnologia, automação e inovação.
-  </samp>
+<samp style="color:#b9c6d6">
+Desenvolvedor em evolução • Estudante de ADS • Automação, IoT e interfaces modernas
+</samp>
 
-  <br><br>
+<br/>
 
-  <!-- Nome estilizado com borda -->
-  <h2 style="border: 2px solid #6e57ff; padding: 8px 16px; border-radius: 12px; display: inline-block;">
-    RIKELMY
-  </h2>
-
-  <br><br>
+<!-- NAME BOX com borda gradiente em azul -->
+<div style="margin-top:18px; display:inline-block; padding:10px 22px; border-radius:12px;
+            background:linear-gradient(180deg, rgba(9,18,28,0.55), rgba(9,18,28,0.35));
+            border: 2px solid; border-image: linear-gradient(90deg,#59b7ff,#2b9cff,#5bd0ff) 1;">
+  <strong style="letter-spacing:4px; color:#dbefff">RIKELMY</strong>
 </div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RikelmyDev&show_icons=true&theme=ayu-mirage&rank_icon=github&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RikelmyDev&layout=compact&theme=ayu-mirage&hide_border=true" height="170" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RikelmyDev&theme=ayu_mirage" />
-</div>
-
----
-
-## 🚀 **Tech Stack**
-
-<div align="center" style="display: inline_block">
-
-  <!-- JavaScript -->
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
-  <!-- Node -->
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
-  <!-- React -->
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
-  <!-- MySQL -->
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-
-  <!-- SQL (generic) -->
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-
-  <!-- Workbench -->
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-
-  <!-- HTML -->
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-
-  <!-- CSS -->
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-
-  <!-- Git -->
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-  <!-- Arduino -->
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 
 </div>
 
 ---
 
-## 📬 **Contact**
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-5e478d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:rikelmyanacleto43@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-5e478d?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5e478d?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com)
-
+<!-- STATS (cards confiáveis) -->
+<div align="center" style="margin-top:18px">
+  <img src="https://github-readme-stats.vercel.app/api?username=RikelmyDev&show_icons=true&theme=dark&hide_border=true&icon_color=5cc0ff&text_color=9fcfff" alt="github stats" width="720"/>
 </div>
 
 ---
 
-## 📂 **Links**
+## ✨ Destaques
+- Criando um **dashboard para casa inteligente** (IoT + sustentabilidade).  
+- Jovem aprendiz na **Hyundai**.  
+- Buscando estágio em grandes empresas e crescimento em backend/frontend.
 
-<div align="center">
-  <p align="center">
-    <samp>
-      <a href="#">Portfolio (em breve)</a> ⊹
-      <a href="https://github.com/RikelmyDev?tab=repositories">Meus Projetos</a>
-    </samp>
-  </p>
+---
+
+## 🚀 Tech Stack principal
+
+<div align="center" style="display:flex; gap:18px; justify-content:center; align-items:center; flex-wrap:wrap; margin:18px 0;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="56" alt="JS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="56" alt="Node"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="56" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="56" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="56" alt="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="56" alt="Workbench"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="56" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="56" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="56" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="56" alt="Arduino"/>
+</div>
+
+> Observação: usei ícones confiáveis do CDN `jsdelivr` (devicon) para evitar imagens quebradas.
+
+---
+
+## 📂 Projetos
+- [Dashboard Casa Inteligente](https://github.com/RikelmyDev) — Projeto em desenvolvimento (IoT, MQTT, Dashboard em React).  
+- **Meus Repositórios:** acesse `https://github.com/RikelmyDev?tab=repositories` para ver tudo publicado.
+
+---
+
+## 🧾 Portfolio & Links
+- **Portfolio:** (em breve)  
+- **Meus Projetos:** https://github.com/RikelmyDev?tab=repositories
+
+---
+
+## 📫 Contato
+<div align="center" style="margin-top:10px">
+  <a href="mailto:rikelmyanacleto43@gmail.com"><img src="https://img.shields.io/badge/Gmail-5cc0ff?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
+  <a href="https://www.instagram.com"><img src="https://img.shields.io/badge/Instagram-5cc0ff?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
+  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-5cc0ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RikelmyDev&style=flat-square&color=5e478d" />
+<div align="center" style="margin-top:20px; color:#7fbfff; font-size:13px">
+  Profile views: <img src="https://komarev.com/ghpvc/?username=RikelmyDev&color=5cc0ff" alt="views"/>
 </div>
 
-<br><br><br>
+<br/>
+
+<!-- FOOTER subtle blue line -->
+<hr style="border:none; height:1px; background:linear-gradient(90deg, rgba(92,192,255,0.0), rgba(92,192,255,0.9), rgba(92,192,255,0.0));"/>
+
+<p align="center" style="color:#9bbfe6; font-size:12px">Feito por Rikelmy — perfil atualizado com tema azul e sem imagens quebradas.</p>
+
 
