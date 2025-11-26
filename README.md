@@ -49,32 +49,16 @@
 
 # **Linguagens**
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img width="65" style="border: 3px solid #8A2BE2; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-      </td>
-      <td align="center">
-        <img width="65" style="border: 3px solid #8A2BE2; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-      </td>
-      <td align="center">
-        <img width="65" style="border: 3px solid #8A2BE2; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-      </td>
-      <td align="center">
-        <img width="65" style="border: 3px solid #8A2BE2; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-      </td>
-      <td align="center">
-        <img width="65" style="border: 3px solid #8A2BE2; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-      </td>
-      <td align="center">
-        <img width="65" style="border: 3px solid #8A2BE2; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-      </td>
-      <td align="center">
-        <img width="65" style="border: 3px solid #8A2BE2; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-      </td>
-    </tr>
-  </table>
+<div align="center" style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap; gap:10px;">
+  
+  <img width="65" style="border: 3px solid #8A2BE2; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
+  <img width="65" style="border: 3px solid #8A2BE2; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
+  <img width="65" style="border: 3px solid #8A2BE2; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+  <img width="65" style="border: 3px solid #8A2BE2; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
+  <img width="65" style="border: 3px solid #8A2BE2; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"/>
+  <img width="65" style="border: 3px solid #8A2BE2; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
+  <img width="65" style="border: 3px solid #8A2BE2; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#"/>
+  
 </div>
 
 <br><br>
@@ -83,29 +67,15 @@
 
 # **Ferramentas & Plataformas**
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img width="65" style="border: 3px solid #A97BFF; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-      </td>
-      <td align="center">
-        <img width="65" style="border: 3px solid #A97BFF; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-      </td>
-      <td align="center">
-        <img width="65" style="border: 3px solid #A97BFF; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-      </td>
-      <td align="center">
-        <img width="65" style="border: 3px solid #A97BFF; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
-      </td>
-      <td align="center">
-        <img width="65" style="border: 3px solid #A97BFF; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-      </td>
-      <td align="center">
-        <img width="65" style="border: 3px solid #A97BFF; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
-      </td>
-    </tr>
-  </table>
+<div align="center" style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap; gap:10px;">
+  
+  <img width="65" style="border: 3px solid #A97BFF; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
+  <img width="65" style="border: 3px solid #A97BFF; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
+  <img width="65" style="border: 3px solid #A97BFF; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma"/>
+  <img width="65" style="border: 3px solid #A97BFF; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino"/>
+  <img width="65" style="border: 3px solid #A97BFF; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode"/>
+  <img width="65" style="border: 3px solid #A97BFF; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio"/>
+
 </div>
 
 <br><br>
@@ -120,7 +90,7 @@
     <img src="https://img.shields.io/badge/Projetos-8A2BE2?style=for-the-badge&logo=github&logoColor=fff"/>
   </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
 
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio%20(Em%20Breve)-6E30F5?style=for-the-badge&logo=dev.to&logoColor=fff"/>
@@ -153,4 +123,3 @@
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer"/>
-```http://googleusercontent.com/image_generation_content/0
