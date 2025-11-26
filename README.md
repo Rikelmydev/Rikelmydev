@@ -41,11 +41,11 @@ Desenvolvedor em evolução • Estudante de ADS • Automação, IoT e interfac
 <!-- GitHub Stats Estável -->
 <div align="center">
   <img 
-       src="https://stats.dooboo.io/api/github-stats?login=RikelmyDev&theme=dark"
-       alt="Rikelmy Stats"
+       src="https://github-readme-stats-one-bice.vercel.app/api?username=RikelmyDev&theme=dark&show_icons=true&hide_border=true&icon_color=5cc0ff&text_color=9fcfff"
        width="720"
   />
 </div>
+
 
 
 
