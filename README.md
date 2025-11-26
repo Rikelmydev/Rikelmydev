@@ -13,6 +13,20 @@
   <div style="margin-top:10px; display:inline-block; padding:12px 24px; border-radius:14px;
               background:rgba(20,0,40,0.55); border:2px solid #A97BFF;">
     <strong style="letter-spacing:5px; color:#E6D7FF; font-size:22px;">
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img width="65" style="border: 3px solid #8A2BE2; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+      </td>
+      <td align="center">
+        <img width="65" style="border: 3px solid #8A2BE2; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+      </td>
+     </tr>
+  </table>
+</div>
+
      
   Systems Analysis and Development Student at FECAP | Former SESI Student | Mechatronics Technician at SENAI
     </strong>
@@ -154,3 +168,5 @@
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer"/>
+
+
