@@ -22,12 +22,13 @@
   </div>
 
 <div align="center">
-
-<img class="tech-icon" src="https://raw.githubusercontent.com/RikelmyAssets/logos/main/fecap.svg"/>
-<img class="tech-icon" src="https://raw.githubusercontent.com/RikelmyAssets/logos/main/sesi.svg"/>
-<img class="tech-icon" src="https://raw.githubusercontent.com/RikelmyAssets/logos/main/senai.svg"/>
-
+<!-- Badges linking to institutions (works reliably) -->
+[![FECAP](https://img.shields.io/badge/FECAP-6E30F5?style=for-the-badge&logo=data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24'></svg>)](https://www.fecap.br)
+[![SESI](https://img.shields.io/badge/SESI-6E30F5?style=for-the-badge)](https://www.sesi.org.br)
+[![SENAI](https://img.shields.io/badge/SENAI-6E30F5?style=for-the-badge)](https://www.senai.br)
 </div>
+
+<br>
 
   <br><br>
 
