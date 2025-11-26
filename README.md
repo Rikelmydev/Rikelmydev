@@ -14,11 +14,18 @@
               background:rgba(20,0,40,0.55); border:2px solid #A97BFF;">
     <strong style="letter-spacing:5px; color:#E6D7FF; font-size:22px;">
 
+
+
+     
+  Systems Analysis and Development Student at FECAP | Former SESI Student | Mechatronics Technician at SENAI
+    </strong>
+  </div>
+
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img width="65" style="border: 3px solid #8A2BE2; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+        <img width="65" style="border: 3px solid #8A2BE2; border-radius: 12px; padding: 5px;" src="https://raw.githubusercontent.com/RikelmyAssets/logos/main/fecap.svg"/>
       </td>
       <td align="center">
         <img width="65" style="border: 3px solid #8A2BE2; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
@@ -26,11 +33,6 @@
      </tr>
   </table>
 </div>
-
-     
-  Systems Analysis and Development Student at FECAP | Former SESI Student | Mechatronics Technician at SENAI
-    </strong>
-  </div>
 
   <br><br>
 
