@@ -12,7 +12,7 @@
 
   <div style="margin-top:10px; display:inline-block; padding:12px 24px; border-radius:14px;
               background:rgba(20,0,40,0.55); border:2px solid #A97BFF;">
-    <strong style="letter-spacing:5px; color:#E6D7FF; font-size:80px;">
+    <strong style="letter-spacing:5px; color:#E6D7FF; font-size:22px;">
 
 
 
