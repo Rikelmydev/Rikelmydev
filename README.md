@@ -22,16 +22,11 @@
   </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img width="65" style="border: 3px solid #8A2BE2; border-radius: 12px; padding: 5px;" src="https://raw.githubusercontent.com/RikelmyAssets/logos/main/fecap.svg"/>
-      </td>
-      <td align="center">
-        <img width="65" style="border: 3px solid #8A2BE2; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-      </td>
-     </tr>
-  </table>
+
+<img class="tech-icon" src="https://raw.githubusercontent.com/RikelmyAssets/logos/main/fecap.svg"/>
+<img class="tech-icon" src="https://raw.githubusercontent.com/RikelmyAssets/logos/main/sesi.svg"/>
+<img class="tech-icon" src="https://raw.githubusercontent.com/RikelmyAssets/logos/main/senai.svg"/>
+
 </div>
 
   <br><br>
