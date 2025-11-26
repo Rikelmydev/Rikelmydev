@@ -2,8 +2,12 @@
 
 <br>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=800&color=A97BFF&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+Rikelmy+Anacleto+Lemos+👋">
+ 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Maia+Alvarez;I+study+analysis+and+systems+development+at+Senac;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+</div>
 </h1>
 
 <div align="center">
