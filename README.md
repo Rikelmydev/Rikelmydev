@@ -36,9 +36,17 @@ Desenvolvedor em evolução • Estudante de ADS • Automação, IoT e interfac
 ---
 
 <!-- STATS (cards confiáveis) -->
-<div align="center" style="margin-top:18px">
-  <img src="https://github-readme-stats.vercel.app/api?username=RikelmyDev&show_icons=true&theme=dark&hide_border=true&icon_color=5cc0ff&text_color=9fcfff" alt="github stats" width="720"/>
+<div align="center">
+
+<!-- GitHub Stats Estável -->
+<img 
+     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RikelmyDev&show_icons=true&theme=dark&hide_border=true&icon_color=5cc0ff&text_color=9fcfff"
+     alt="Rikelmy GitHub Stats"
+     height="180"
+/>
+
 </div>
+
 
 
 ## 🚀 Tech Stack principal
