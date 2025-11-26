@@ -3,12 +3,12 @@
 <div align="center">
 
   <!-- Ícone/Avatar Temático -->
-  <img height="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img height="150" style="border-radius: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
   <br><br>
 
-  <h2>Hi there! I'm <b>Rikelmy Anacleto Lemos</b> 👋</h2>
-  <h3>Welcome to my GitHub!</h3>
+  <!-- Título Animado -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Rikelmy+Anacleto+Lemos+👋" />
 
   <br>
 
@@ -18,7 +18,10 @@
 
   <br><br>
 
-  <b>R I K E L M Y  ♡</b>
+  <!-- Nome estilizado com borda -->
+  <h2 style="border: 2px solid #6e57ff; padding: 8px 16px; border-radius: 12px; display: inline-block;">
+    RIKELMY
+  </h2>
 
   <br><br>
 </div>
@@ -41,15 +44,37 @@
 ## 🚀 **Tech Stack**
 
 <div align="center" style="display: inline_block">
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+
+  <!-- JavaScript -->
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+  <!-- Node -->
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+  <!-- React -->
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+  <!-- MySQL -->
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+
+  <!-- SQL (generic) -->
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+
+  <!-- Workbench -->
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+
+  <!-- HTML -->
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+
+  <!-- CSS -->
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+
+  <!-- Git -->
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+  <!-- Arduino -->
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+
 </div>
 
 ---
@@ -66,12 +91,13 @@
 
 ---
 
+## 📂 **Links**
+
 <div align="center">
-  <p>
+  <p align="center">
     <samp>
-      ♡ <a href="#">Portfolio (em breve)</a> ⊹
-      <a href="#">Notion</a> ⊹
-      <a href="#">Projetos</a> ♡
+      <a href="#">Portfolio (em breve)</a> ⊹
+      <a href="https://github.com/RikelmyDev?tab=repositories">Meus Projetos</a>
     </samp>
   </p>
 </div>
@@ -83,3 +109,4 @@
 </div>
 
 <br><br><br>
+
