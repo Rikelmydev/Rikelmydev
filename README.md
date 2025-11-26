@@ -24,19 +24,20 @@
 
 <div align="center">
 
-  <a href="mailto:rikelmyanacleto43@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=A97BFF"/>
+  <a href="https://www.fecap.br" target="_blank">
+    <img src="https://img.shields.io/badge/FECAP-008000?style=for-the-badge&logo=google-scholar&logoColor=fff"/>
   </a>
 
-  <a href="https://www.instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=A97BFF"/>
+  <a href="https://www.sesi.org.br" target="_blank">
+    <img src="https://img.shields.io/badge/SESI-CC0000?style=for-the-badge&logo=google-scholar&logoColor=fff"/>
   </a>
 
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=A97BFF"/>
+  <a href="https://www.senai.br" target="_blank">
+    <img src="https://img.shields.io/badge/SENAI-CC0000?style=for-the-badge&logo=google-scholar&logoColor=fff"/>
   </a>
 
 </div>
+
 
 
   <br><br>
