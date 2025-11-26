@@ -50,28 +50,31 @@
 # **Linguagens**
 
 <div align="center">
-
-  <img width="70" style="transform: rotate(-8deg); border: 2px solid #8A2BE2; border-radius: 12px; padding: 8px; margin: 10px;"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-
-  <img width="70" style="transform: rotate(6deg); border: 2px solid #8A2BE2; border-radius: 12px; padding: 8px; margin: 10px;"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-
-  <img width="70" style="transform: rotate(-5deg); border: 2px solid #8A2BE2; border-radius: 12px; padding: 8px; margin: 10px;"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-
-  <img width="70" style="transform: rotate(7deg); border: 2px solid #8A2BE2; border-radius: 12px; padding: 8px; margin: 10px;"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-
-  <img width="70" style="transform: rotate(-7deg); border: 2px solid #8A2BE2; border-radius: 12px; padding: 8px; margin: 10px;"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-
-  <img width="70" style="transform: rotate(5deg); border: 2px solid #8A2BE2; border-radius: 12px; padding: 8px; margin: 10px;"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-
-  <img width="70" style="transform: rotate(-6deg); border: 2px solid #8A2BE2; border-radius: 12px; padding: 8px; margin: 10px;"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-
+  <table>
+    <tr>
+      <td align="center">
+        <img width="65" style="border: 3px solid #8A2BE2; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+      </td>
+      <td align="center">
+        <img width="65" style="border: 3px solid #8A2BE2; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+      </td>
+      <td align="center">
+        <img width="65" style="border: 3px solid #8A2BE2; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+      </td>
+      <td align="center">
+        <img width="65" style="border: 3px solid #8A2BE2; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+      </td>
+      <td align="center">
+        <img width="65" style="border: 3px solid #8A2BE2; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+      </td>
+      <td align="center">
+        <img width="65" style="border: 3px solid #8A2BE2; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+      </td>
+      <td align="center">
+        <img width="65" style="border: 3px solid #8A2BE2; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br><br>
@@ -81,25 +84,28 @@
 # **Ferramentas & Plataformas**
 
 <div align="center">
-
-  <img width="70" style="transform: rotate(6deg); border: 2px solid #A97BFF; border-radius: 12px; padding: 8px; margin: 10px;"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-
-  <img width="70" style="transform: rotate(-8deg); border: 2px solid #A97BFF; border-radius: 12px; padding: 8px; margin: 10px;"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-
-  <img width="70" style="transform: rotate(7deg); border: 2px solid #A97BFF; border-radius: 12px; padding: 8px; margin: 10px;"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-
-  <img width="70" style="transform: rotate(-5deg); border: 2px solid #A97BFF; border-radius: 12px; padding: 8px; margin: 10px;"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
-
-  <img width="70" style="transform: rotate(5deg); border: 2px solid #A97BFF; border-radius: 12px; padding: 8px; margin: 10px;"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-
-  <img width="70" style="transform: rotate(-6deg); border: 2px solid #A97BFF; border-radius: 12px; padding: 8px; margin: 10px;"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
-
+  <table>
+    <tr>
+      <td align="center">
+        <img width="65" style="border: 3px solid #A97BFF; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+      </td>
+      <td align="center">
+        <img width="65" style="border: 3px solid #A97BFF; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+      </td>
+      <td align="center">
+        <img width="65" style="border: 3px solid #A97BFF; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+      </td>
+      <td align="center">
+        <img width="65" style="border: 3px solid #A97BFF; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
+      </td>
+      <td align="center">
+        <img width="65" style="border: 3px solid #A97BFF; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+      </td>
+      <td align="center">
+        <img width="65" style="border: 3px solid #A97BFF; border-radius: 12px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br><br>
