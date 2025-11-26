@@ -14,6 +14,7 @@
               background:rgba(20,0,40,0.55); border:2px solid #A97BFF;">
     <strong style="letter-spacing:5px; color:#E6D7FF; font-size:22px;">
       RIKELMY 🇧🇷
+      Systems Analysis and Development Student at FECAP | Former SESI Student | Mechatronics Technician at SENAI
     </strong>
   </div>
 
