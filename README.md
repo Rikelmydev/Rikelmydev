@@ -40,14 +40,6 @@ Desenvolvedor em evolução • Estudante de ADS • Automação, IoT e interfac
   <img src="https://github-readme-stats.vercel.app/api?username=RikelmyDev&show_icons=true&theme=dark&hide_border=true&icon_color=5cc0ff&text_color=9fcfff" alt="github stats" width="720"/>
 </div>
 
----
-
-## ✨ Destaques
-- Criando um **dashboard para casa inteligente** (IoT + sustentabilidade).  
-- Jovem aprendiz na **Hyundai**.  
-- Buscando estágio em grandes empresas e crescimento em backend/frontend.
-
----
 
 ## 🚀 Tech Stack principal
 
@@ -57,7 +49,6 @@ Desenvolvedor em evolução • Estudante de ADS • Automação, IoT e interfac
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="56" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="56" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="56" alt="SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="56" alt="Workbench"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="56" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="56" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="56" alt="Git"/>
