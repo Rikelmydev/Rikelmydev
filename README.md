@@ -1,119 +1,54 @@
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="100" style="filter: drop-shadow(0 0 10px #61dafb);"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-  <br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Rikelmy+Anacleto+Lemos+👋;Full-Stack+Developer+in+progress;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=5CC0FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Eu+sou+Rikelmy+Anacleto;Desenvolvedor+em+Evolu%C3%A7%C3%A3o;Apaixonado+por+IoT+e+React;Seja+bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
-  </a>
+<div align="center">  
+  <img width="49%" height="195px" 
+       src="https://github-readme-stats.vercel.app/api?username=RikelmyLemos&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
 
-  <br/>
-
-  <div style="display: flex; gap: 10px; justify-content: center; margin-top: 10px;">
-    <a href="mailto:rikelmyanacleto43@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-    <a href="https://www.linkedin.com/in/rikelmy-anacleto">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://instagram.com">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
-  </div>
+  <img width="41%" height="195px"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RikelmyLemos&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
 </div>
 
-<br/>
-
-<h2 align="center">⚡ Sobre Mim</h2>
+[![Rikelmy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RikelmyLemos&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  Sou estudante de <b>Análise e Desenvolvimento de Sistemas</b> e atuo como Jovem Aprendiz na <b>Hyundai</b>.<br>
-  Meu foco atual é unir o desenvolvimento web moderno com o mundo físico através da <b>Internet das Coisas (IoT)</b>.
+  <img src="https://github-profile-trophy.vercel.app/?username=RikelmyLemos&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
 </p>
 
-<div align="center">
-  
-| 🔭 Atualmente trabalhando em | 🌱 Aprendendo | 🎯 Metas |
-| :--- | :--- | :--- |
-| **Dashboard para Casa Inteligente** | **Node.js, MQTT & React Avançado** | **Estágio em Backend/Frontend** |
-
+<div align="center">  
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 </div>
 
 ---
 
-<h2 align="center">🚀 Tecnologias & Ferramentas</h2>
+### 🚀 Main Skills
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
+![C#](https://img.shields.io/badge/-CSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple)&nbsp;
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" alt="JS"/><br>Javascript
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" alt="React"/><br>React
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" alt="Node"/><br>Node.js
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" alt="HTML"/><br>HTML5
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" alt="CSS"/><br>CSS3
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="48" alt="Arduino"/><br>Arduino
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" alt="MySQL"/><br>MySQL
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" alt="SQLite"/><br>SQLite
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" alt="Git"/><br>Git
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" alt="VSCode"/><br>VS Code
-      </td>
-       <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="48" alt="Trello"/><br>Trello
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" alt="Linux"/><br>Linux
-      </td>
-    </tr>
-  </table>
-</div>
+### 🛠 Tools
+![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql)&nbsp;
+![Workbench](https://img.shields.io/badge/-MySQL%20Workbench-0D1117?style=for-the-badge&logo=mysql)&nbsp;
 
----
+### 📘 Other Knowledge
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma)&nbsp;
 
-<h2 align="center">📊 Minhas Estatísticas</h2>
+### 📚 Studying Now
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
 
-<div align="center">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-  <img src="https://github-readme-stats.vercel.app/api?username=Rikelmydev&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;title_color=5cc0ff&amp;text_color=bfbfbf&amp;icon_color=5cc0ff&amp;bg_color=0d1117" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rikelmydev&amp;layout=compact&amp;theme=dark&amp;hide_border=true&amp;title_color=5cc0ff&amp;text_color=bfbfbf&amp;icon_color=5cc0ff&amp;bg_color=0d1117" height="150" alt="languages graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rikelmydev&amp;theme=dark&amp;hide_border=true&amp;background=0d1117&amp;ring=5cc0ff&amp;fire=5cc0ff&amp;currStreakLabel=5cc0ff" alt="streak stats"/>
-</div>
-
----
-
-<div align="center">
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Rikelmydev&amp;color=5cc0ff&amp;style=flat-square&amp;label=Profile+Views" alt="views"/>
-  <br/>
-  <br/>
-  <p style="color: #5cc0ff; font-size: 12px; font-style: italic;">
-    "A tecnologia move o mundo, mas quem move a tecnologia somos nós." 🚀
-  </p>
-</div>
