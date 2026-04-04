@@ -31,7 +31,7 @@
 
 ---
 
-## 🛠️ Linguagens & Tecnologias
+## Linguagens & Tecnologias
 
 <div align="center">
   <table>
@@ -49,7 +49,7 @@
 
 ---
 
-## ⚙️ Ferramentas & Plataformas
+## Ferramentas & Plataformas
 
 <div align="center">
   <table>
@@ -66,7 +66,7 @@
 
 ---
 
-## 🚀 Projetos & Portfolio
+## Projetos & Portfolio
 
 <div align="center">
   <a href="https://github.com/Rikelmydev?tab=repositories" target="_blank">
@@ -80,7 +80,7 @@
 
 ---
 
-## 📬 Contato
+## Contato
 
 <div align="center">
   <a href="mailto:rikelmyanacleto43@gmail.com">
