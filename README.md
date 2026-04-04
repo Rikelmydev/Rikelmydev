@@ -24,7 +24,7 @@
   </div>
 
   <br>
-  <samp style="color:#cfc7e6"> Desenvolvedor | ADS | Automação • IoT • Interfaces Modernas </samp>
+  <samp style="color:#cfc7e6"> Desenvolvedor | ADS | Automação • Cloud • Interfaces Modernas </samp>
 </div>
 
 <br>
