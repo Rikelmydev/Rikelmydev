@@ -52,20 +52,6 @@
 
 ---
 
-<div align="center">
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RikelmyDev&bg_color=0d1117&color=9D4EDD&line=8A2BE2&point=6E30F5&area=true&hide_border=true"/>
-</div>
-
-<br><br>
-
----
-
 # **Linguagens**
 
 <div align="center">
