@@ -139,7 +139,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/RikelmyDev?tab=repositories" target="_blank">
+  <a href="https://portifolio-pessoal-murex.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Projetos-8A2BE2?style=for-the-badge&logo=github&logoColor=fff"/>
   </a>
 
