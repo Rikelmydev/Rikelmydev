@@ -43,6 +43,7 @@
       <td align="center"><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/><br>Node.js</td>
       <td align="center"><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/><br>React</td>
       <td align="center"><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/><br>C#</td>
+      <td align="center"><img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/><br>AWS</td>
     </tr>
   </table>
 </div>
