@@ -36,13 +36,13 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5"/><br>HTML5</td>
-      <td align="center"><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3"/><br>CSS3</td>
-      <td align="center"><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js"/><br>JavaScript</td>
-      <td align="center"><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql"/><br>MySQL</td>
-      <td align="center"><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs"/><br>Node.js</td>
-      <td align="center"><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react"/><br>React</td>
-      <td align="center"><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp"/><br>C#</td>
+      <td align="center"><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/><br>HTML5</td>
+      <td align="center"><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/><br>CSS3</td>
+      <td align="center"><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><br>JavaScript</td>
+      <td align="center"><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/database/database-original.svg"/><br>Banco de Dados</td>
+      <td align="center"><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/><br>Node.js</td>
+      <td align="center"><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/><br>React</td>
+      <td align="center"><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/><br>C#</td>
     </tr>
   </table>
 </div>
@@ -54,12 +54,27 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git"/></td>
-      <td align="center"><img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github"/></td>
-      <td align="center"><img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma"/></td>
-      <td align="center"><img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino"/></td>
-      <td align="center"><img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode"/></td>
-      <td align="center"><img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="vs"/></td>
+      <td align="center">
+        <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/><br>Git
+      </td>
+      <td align="center">
+        <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><br>GitHub
+      </td>
+      <td align="center">
+        <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/><br>Figma
+      </td>
+      <td align="center">
+        <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/><br>Arduino
+      </td>
+      <td align="center">
+        <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/><br>VS Code
+      </td>
+      <td align="center">
+        <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/><br>Visual Studio
+      </td>
+      <td align="center">
+        <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/><br>Android Studio
+      </td>
     </tr>
   </table>
 </div>
