@@ -7,7 +7,7 @@
 
   <div style="margin-top:10px; display:inline-block; padding:12px 24px; border-radius:14px; background:rgba(20,0,40,0.55); border:2px solid #A97BFF;">
     <strong style="letter-spacing:2px; color:#E6D7FF; font-size:18px;"> 
-      Análise e Desenvolvimento de Sistemas na FECAP | Banco de Dados na UNIASSELVI | SESI | Formado em Técnico em Mecatrônica no SENAI 
+      Análise e Desenvolvimento de Sistemas na FECAP | Banco de Dados na UNIASSELVI | SESI | Técnico em Mecatrônica no SENAI 
     </strong>
   </div>
 
